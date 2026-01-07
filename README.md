@@ -2,7 +2,7 @@
 # Automation Overview
 
 ### Structure
-This solution is created using Page Object Pattern. In the folder /pages there are files with the selectors and functions used to validate the test case. In the folder /tests the test file is placed as well as the folder /helper, which contains the code to create new users.
+This solution is created using Page Object Pattern. In the folder /pages there are files with the selectors and functions used to validate the test case. In the folder /tests the test file is placed as well as the folder /helper, which contains the code to create new users. Tests are getting executed against Firefox and Chrome.
 
 ## Run tests
 
